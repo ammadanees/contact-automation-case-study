@@ -90,10 +90,4 @@ As businesses increasingly recognize the competitive advantage of automation, th
 
 Here’s the Gmail SMTP workflow configured in n8n:
 
-## Technical Architecture & Process
-
-Here's the n8n workflow I created:
-
-<img src="/images/postmansnip.png" alt="N8N Workflow Screenshot" style="max-width: 700px; height: auto; display: block; margin: 20px auto;">
-
-The workflow consists of four main components...
+<img src="/images/postmansnip.png" alt="N8N Workflow Screenshot" width="700">
