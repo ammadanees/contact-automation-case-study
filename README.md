@@ -90,4 +90,4 @@ As businesses increasingly recognize the competitive advantage of automation, th
 
 Here’s the Gmail SMTP workflow configured in n8n:
 
-![n8n Workflow Screenshot](/Images/Postman%20snip.png)
+![n8n Workflow Screenshot](/images/postmansnip.png)
