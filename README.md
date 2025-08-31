@@ -1,4 +1,5 @@
 # Case Study: Contact Form Automation with n8n
+**By Muhammad Ammad Anees**
 
 ## Introduction
 As an **automation enthusiast**, I am passionate about leveraging technology to streamline processes and eliminate manual, repetitive tasks. This project showcases my exploration into **workflow automation using n8n**, where I built a complete contact form system that automatically handles email communications. The project demonstrates my ability to integrate multiple technologies and create seamless user experiences through intelligent automation.
@@ -86,8 +87,20 @@ This project reinforced my passion for **automation-driven solutions** and demon
 
 As businesses increasingly recognize the competitive advantage of automation, this project represents my commitment to **leveraging technology to eliminate inefficiencies and create superior user experiences**. It's a practical demonstration of how automation enthusiasts can deliver immediate value while building scalable solutions for future growth.
 
-## Workflow Setup Screenshot
+## Project Screenshot
 
-Here’s the Gmail SMTP workflow configured in n8n:
+**n8n workflow design**
+
+![n8n Workflow Screenshot](/images/n8nworkflowsnip.png)
+
+**Contact Form**
+
+![n8n Workflow Screenshot](/images/contactformsnip.png)
+
+**Postman for testing and debugging**
 
 ![n8n Workflow Screenshot](/images/postmansnip.png)
+
+
+
+
