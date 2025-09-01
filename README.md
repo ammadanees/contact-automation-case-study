@@ -1,8 +1,3 @@
-<style>
-.page-header { display: none; }
-h1.project-name { display: none; }
-.project-tagline { display: none; }
-</style>
 
 # Case Study: Email Automation System with n8n
 **By Muhammad Ammad Anees**
