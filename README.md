@@ -2,7 +2,7 @@
 **By Muhammad Ammad Anees**
 
 ## Introduction
-As an **automation enthusiast**, I am passionate about leveraging technology to streamline processes and eliminate manual, repetitive tasks. This project showcases my exploration into **workflow automation using n8n**, where I built a complete contact form system that automatically handles email communications. The project demonstrates my ability to integrate multiple technologies and create seamless user experiences through intelligent automation.
+As a **tech enthusiast**, I am passionate about leveraging technology to streamline processes and eliminate manual, repetitive tasks. This project showcases my exploration into **workflow automation using n8n**, where I built a complete contact form system that automatically handles email communications. The project demonstrates my ability to integrate multiple technologies and create seamless user experiences through intelligent automation.
 
 ## Scope & Real-World Relevance
 This project involved creating an **end-to-end contact form automation system** that manages both client-facing and internal communications. In real-world business contexts, this type of automation is crucial for:
@@ -87,7 +87,7 @@ This project reinforced my passion for **automation-driven solutions** and demon
 
 As businesses increasingly recognize the competitive advantage of automation, this project represents my commitment to **leveraging technology to eliminate inefficiencies and create superior user experiences**. It's a practical demonstration of how automation enthusiasts can deliver immediate value while building scalable solutions for future growth.
 
-## Project Screenshot
+## Project Snapshot
 
 **n8n workflow design**
 
