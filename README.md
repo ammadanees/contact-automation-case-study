@@ -87,7 +87,7 @@ This project reinforced my passion for **automation-driven solutions** and demon
 
 As businesses increasingly recognize the competitive advantage of automation, this project represents my commitment to **leveraging technology to eliminate inefficiencies and create superior user experiences**. It's a practical demonstration of how automation enthusiasts can deliver immediate value while building scalable solutions for future growth.
 
-## Project Snapshot
+## Project Snapshots
 
 **n8n workflow design**
 
